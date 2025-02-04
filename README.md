@@ -1,7 +1,7 @@
 # `@ubiquity/onboard.ubq.fi`
 
 Generates the configuration for organizations, by creating a default configuration and creating a repository under the
-given Organization. This code is very important,
+given Organization. This code is very important, all the files, should be checked twice, to ensure that it works.
 
 ## Requirements
 
